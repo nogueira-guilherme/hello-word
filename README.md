@@ -1,2 +1,2 @@
 # hello-word
-Primeiro projeto com GutHub
+Primeiro projeto com GitHub
